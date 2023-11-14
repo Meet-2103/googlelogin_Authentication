@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844075452161",
+    "project_id": "login-91f55",
+    "storage_bucket": "login-91f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844075452161:android:66282e20091c488ae37d00",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844075452161-jfdjbdtopfq4bfdbr4nl0ri8i6dqns5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSwDH889n3zwprxXcC1U1ShRAgE3eKss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844075452161-3nel4l8251g34mnr7gb087jc37jes3fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
